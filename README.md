@@ -16,6 +16,7 @@ Launch [MailHog](https://github.com/mailhog/MailHog), from the binary or [docker
 Install stuff in a venv
 
     python3 -m venv .
+    ./bin/pip install -r requirements.txt
 
 Launch the relay
 
